@@ -1,20 +1,29 @@
 # DB관련 설치 파일
 서버구성 파일
 [Xampp](https://www.apachefriends.org/download.html)(Apache, Mysql, phpmyadmin 통합환경 제공)
+ㅤ
+  
 
+[ngrok 터널링 도구](https://dashboard.ngrok.com/)  
 
-터널링도구 (외부에서 데이터 접속)
-[ngrok](https://dashboard.ngrok.com/)
-[Windows 11 ngrok설치 및 인증방법](https://newstroyblog.tistory.com/578)   
+[Windows 11 ngrok설치 및 인증방법](https://newstroyblog.tistory.com/578)     
 
+ㅤ
+  
 ngrok 실행후 Forwarding에 나오는 주소를 php나 C#에서 로컬호스트(https://127.0.0.1:80) 주소대신 서버 url로 사용하여 외부에서도 DB연동 가능   
 
 실행 방법 `ngrok http 80`
+
+ㅤ
+  
 
 # 예제파일 사전안내
 - 아래 설명에 나오는 php 코드들은 htdocs폴더 참고
 - 아래 설명에 나오는 유니티 .cs파일 및 프로젝트는 game폴더를 유니티 - Add  - Add Project from disk로 불러와서 사용가능 (Unity2D 프로젝트로 만들어져있음)
 - Scenes & c# cs파일 위치 game\Assets\Scenes
+  
+ㅤ
+  
 
   
 # Mysql 서버 세팅  
