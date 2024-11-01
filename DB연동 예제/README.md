@@ -145,11 +145,11 @@ https://www.youtube.com/watch?v=6RPNL5E3cnQ
 
 #
 유니티 한글폰트추가  
-https://blockdmask.tistory.com/590   (font asset creator설정만 이거따라하기  
+https://blockdmask.tistory.com/590
 
 https://blaupowder.tistory.com/107
 #
-유니티 스크립트 인자값에 textmeshpro는 안들어갈때  
+유니티 스크립트 인자값에 textmeshpro 안들어갈 때
 https://dani2344.tistory.com/99  
 
 https://soopeach.tistory.com/13
